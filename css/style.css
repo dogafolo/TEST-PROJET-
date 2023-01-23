@@ -1,0 +1,13 @@
+.container .content .card img{
+    border-radius: 10px;
+    width: 50%;
+    height: 400px;
+    
+}
+
+.container .content .card{
+    width: 50%;
+    height: 400px;
+    font-size: 20%;
+
+}
